@@ -3,5 +3,5 @@
 - 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on open source or local (Liverpool, UK) dev projects in future 
 - 📫 Reach me via morse code (just joking) via DM on Twitter @markhemming5
-- Peace out!
+- ✌️  Peace out!
 
